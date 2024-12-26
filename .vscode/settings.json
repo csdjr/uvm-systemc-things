@@ -1,0 +1,12 @@
+{
+    "window.zoomLevel": 1,
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.intelliSenseCachePath": "${workspaceFolder}/intelliSenseCache",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.quickSuggestionsDelay": 0,
+    "explorer.autoReveal":"focusNoScroll",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.wrapTabs": true,
+    "cmake.configureOnOpen": false,
+}
